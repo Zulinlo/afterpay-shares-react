@@ -1,9 +1,10 @@
 import './App.css';
+import Graph from './components/Graph'
 
 const App = () => {
     return (
         <div>
-            Hi
+            <Graph />
         </div>
     );
 }
